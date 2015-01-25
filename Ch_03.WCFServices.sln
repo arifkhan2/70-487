@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_03.WCF Library", "WCF Library\Ch_03.WCF Library.csproj", "{0A9DAC6F-69E3-44E0-80E3-B197A88EC3B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj01.WCF Library", "WCF Library\Proj01.WCF Library.csproj", "{0A9DAC6F-69E3-44E0-80E3-B197A88EC3B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
