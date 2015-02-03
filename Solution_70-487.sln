@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap03.Proj01.WCF Library", "WCF Library\Chap03.Proj01.WCF Library.csproj", "{0A9DAC6F-69E3-44E0-80E3-B197A88EC3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap03.Proj02.SqlCache", "Chap03.Proj02.SqlCache\Chap03.Proj02.SqlCache.csproj", "{23284CBC-5CCC-4029-8E16-8CAAE3E346A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0A9DAC6F-69E3-44E0-80E3-B197A88EC3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A9DAC6F-69E3-44E0-80E3-B197A88EC3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A9DAC6F-69E3-44E0-80E3-B197A88EC3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23284CBC-5CCC-4029-8E16-8CAAE3E346A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23284CBC-5CCC-4029-8E16-8CAAE3E346A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23284CBC-5CCC-4029-8E16-8CAAE3E346A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23284CBC-5CCC-4029-8E16-8CAAE3E346A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
