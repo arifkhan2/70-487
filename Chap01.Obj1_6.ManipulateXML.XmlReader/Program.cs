@@ -4,6 +4,11 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
+//Chapter 01: Accessing Data
+//Objective 1.6: Manipulate XML data structures
+//Topic: XmlDocument class - write capabilities
+//Source reference: https://msdn.microsoft.com/en-us/library/fw1ys7w6(v=vs.110).aspx
+
 namespace Chap01.Obj1_6.ManipulateXML.XmlReader
 {
     class Program

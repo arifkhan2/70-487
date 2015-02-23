@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01.Obj1_6.ManipulateXML
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01.Obj1_6.ManipulateXML.XmlReader", "Chap01.Obj1_6.ManipulateXML.XmlReader\Chap01.Obj1_6.ManipulateXML.XmlReader.csproj", "{3E2937C8-1363-4A94-882B-11435469123A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01.Obj1_6.ManipulateXML.XPathNavigator", "Chap01.Obj1_6.ManipulateXML.XPathNavigator\Chap01.Obj1_6.ManipulateXML.XPathNavigator.csproj", "{C1EC520C-260C-4BBB-BE57-B72D358FE8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01.Obj1_6.ManipulateXml.XmlDocument", "Chap01.Obj1_6.ManipulateXml.XmlDocument\Chap01.Obj1_6.ManipulateXml.XmlDocument.csproj", "{8DA102FE-4AAE-4D09-84E9-D3BE3B23F519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01.Obj1_6.ManipulateXml.LinqToXml.XElement", "Chap01.Obj1_6.ManipulateXml.LinqToXml\Chap01.Obj1_6.ManipulateXml.LinqToXml.XElement.csproj", "{334BE8E9-054B-43B0-9E00-04788E8C4A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap01.Obj1_6.ManipulateXml.LinqToXml.XDocument", "Chap01.Obj1_6.ManipulateXml.LinqToXml.XDocument\Chap01.Obj1_6.ManipulateXml.LinqToXml.XDocument.csproj", "{F19B36D3-60A1-4A4E-9728-258DC69C5E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap02.EntityFramework.Obj2_2.DataProvider.EntityCommand", "Chap02.EntityFramework.Obj2_2.DataProvider.EntityDataReader\Chap02.EntityFramework.Obj2_2.DataProvider.EntityCommand.csproj", "{5256111E-EDF1-4A36-8426-0DE97E7109FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +43,26 @@ Global
 		{3E2937C8-1363-4A94-882B-11435469123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E2937C8-1363-4A94-882B-11435469123A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E2937C8-1363-4A94-882B-11435469123A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1EC520C-260C-4BBB-BE57-B72D358FE8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EC520C-260C-4BBB-BE57-B72D358FE8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1EC520C-260C-4BBB-BE57-B72D358FE8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1EC520C-260C-4BBB-BE57-B72D358FE8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA102FE-4AAE-4D09-84E9-D3BE3B23F519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA102FE-4AAE-4D09-84E9-D3BE3B23F519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA102FE-4AAE-4D09-84E9-D3BE3B23F519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA102FE-4AAE-4D09-84E9-D3BE3B23F519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334BE8E9-054B-43B0-9E00-04788E8C4A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334BE8E9-054B-43B0-9E00-04788E8C4A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334BE8E9-054B-43B0-9E00-04788E8C4A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334BE8E9-054B-43B0-9E00-04788E8C4A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19B36D3-60A1-4A4E-9728-258DC69C5E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19B36D3-60A1-4A4E-9728-258DC69C5E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19B36D3-60A1-4A4E-9728-258DC69C5E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19B36D3-60A1-4A4E-9728-258DC69C5E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5256111E-EDF1-4A36-8426-0DE97E7109FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5256111E-EDF1-4A36-8426-0DE97E7109FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5256111E-EDF1-4A36-8426-0DE97E7109FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5256111E-EDF1-4A36-8426-0DE97E7109FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
